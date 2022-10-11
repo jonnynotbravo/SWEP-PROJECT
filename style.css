@@ -1,9 +1,5 @@
 body {
-    margin: 0 auto;
-    background-color:#e5eaf5 ;
-    position: relative;
-
-
+    margin: auto;
 
 }
 
@@ -13,27 +9,36 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-  
+    z-index: 10;
+   
 }
 
 h1 {
     color: #ffffff;
     text-align: center;
-    padding: 50px;
-    
-
-}
-
-footer {
-    background-color: #201F2E;
-    width: 100%;
-    position: absolute;
-    bottom: 0px;
-
-}
-
-#footer {
-    color: #ffffff;
-    text-align: center;
     padding: 30px;
+
+}
+
+#border {
+    border: 50px inset #201F2E;
+    position: relative; 
+    top: 200px;
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    border-radius: 100px;
+
+}
+
+#survey {
+    text-align: center;
+    padding: 20px;
+    height: 600px;
+    
+}
+
+hr {
+    width: 5%;
+    
 }
