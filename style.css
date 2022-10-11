@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto;
+    background-color:#e5eaf5 ;
+    position: relative;
+
+
+
+}
+
+header {
+    background-color: #201F2E;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+  
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    padding: 50px;
+    
+
+}
+
+footer {
+    background-color: #201F2E;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+
+}
+
+#footer {
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+}
