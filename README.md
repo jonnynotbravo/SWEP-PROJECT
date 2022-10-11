@@ -1,1 +1,1 @@
-Software Enginnering Pre-work Final Project
+A Survey website for Flatiron students who have taken the Software Enginnering Pre-work. 
